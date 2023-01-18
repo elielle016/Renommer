@@ -1,1 +1,1 @@
-# Test
+Ce programme permet de renommer tous les fichiers d'un repertoire. Il consiste à se placer dans le repertoire dont on veut renommer les fichiers selon un masque défini avant d'être exécuté.
